@@ -1,9 +1,30 @@
-# SQL_Project_Music_Store_Analysis
-SQL project to analyze online music store data
+# Music Store Analysis Using SQL
+This project analyzes a Music Store database using SQL to generate business insights from customer purchases, sales, artists, albums, and music genres. The goal is to solve real-world business problems using SQL queries and data analysis techniques.
 
-## Database and Tools
-* Postgre SQL
-* PgAdmin4
+🛠️ Tools & Technologies
+SQL
+SQLite
+DB Browser for SQLite
+Git & GitHub
 
-Schema- Music Store Database  
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+📊 Key Analysis Performed
+Identified top customers and revenue-generating cities.
+Analyzed sales performance across countries.
+Found the most popular music genres and artists.
+Calculated customer spending patterns.
+Performed advanced analysis using Joins, CTEs, Subqueries, and Window Functions.
+
+💡 Skills Demonstrated
+Data Analysis
+SQL Query Writing
+Database Management
+Data Aggregation & Reporting
+Business Insight Generation
+
+🚀 Outcome
+This project helped me strengthen my SQL skills by solving real-world business questions and extracting meaningful insights from relational data.
+
+Author: Rohit
+
+
+
